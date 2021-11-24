@@ -1,0 +1,3 @@
+,employee_id,first_name,last_name,department_id,department_name,manager_employee_id,employee_role,salary,hire_date,terminated_date,terminated_reason,dob,fte,location,work_hours,is_full_time
+18,5011147,Amiri,Gyawali,18048,Patient Equipment Service,5001188,Stock Clerk,10905,2016-11-21,03-15-2020,Contract Expired,1977-03-02,1.0,Kathmandu,40.0,True
+28,507800,Himal,Banjade,18048,Patient Equipment Service,5001188,Stock Clerk,8903,1995-09-11,08-26-2005,Medical Urgency,1961-09-07,1.0,Pokhara,40.0,True
