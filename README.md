@@ -12,3 +12,4 @@ print('Hello World!!')
 | Library         | Github Repo     | Example Code |
 |-----------------|-----------------|--------------|
 | Pandas          | https://github.com/pandas-dev/pandas |  [Code](./Libraries/01_Pandas.ipynb) |
+| Numpy           | https://github.com/numpy/numpy |  [Code](./Libraries/02_Numpy.ipynb) |
